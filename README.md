@@ -21,10 +21,6 @@
 
 建议在你的工程根目录保持如下结构（以 `pythonProject1` 为例）：
 
-```text
-E:\
-└── 论文\
-    └── 我的\
         └── 深度补全预训练模型\
             └── pythonProject1\
                 ├── to_progressivemae\
@@ -279,19 +275,7 @@ out_dir/
 
 这些图片可以直接用于论文中的“定性结果对比”部分。
 
----
 
-## 7. 引用（Citation）
-
-如在论文或项目中使用本代码，请引用对应的 TO-ProgressiveMAE 论文（此处给一个占位格式，可根据你最终投稿期刊修改）：
-
-```bibtex
-@article{your2025toprogressivemae,
-  title   = {TO-ProgressiveMAE: Progressive RGB-D Pre-training for Transparent-Object Depth Completion},
-  author  = {Your Name and Coauthors},
-  journal = {Journal / Conference Name},
-  year    = {2025}
-}
 ```
 
 ---
